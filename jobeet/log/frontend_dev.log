@@ -1,0 +1,282 @@
+May 25 19:10:39 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:10:39 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:10:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:10:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:10:39 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:10:39 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:10:39 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:10:39 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:10:39 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:10:39 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:10:39 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:10:39 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+May 25 19:10:39 symfony [info] {sfWebDebugLogger} Configuration 319.02 ms (9)
+May 25 19:10:39 symfony [info] {sfWebDebugLogger} Factories 309.02 ms (1)
+May 25 19:10:39 symfony [info] {sfWebDebugLogger} Action "default/index" 0.00 ms (1)
+May 25 19:10:39 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 384.02 ms (1)
+May 25 19:10:39 symfony [info] {sfWebResponse} Send content (46553 o)
+May 25 19:10:40 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:10:40 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:10:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:10:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:10:40 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:10:40 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:10:40 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:10:40 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:10:40 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:10:40 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:10:40 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:10:40 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+May 25 19:10:40 symfony [info] {sfWebDebugLogger} Configuration 10.00 ms (9)
+May 25 19:10:40 symfony [info] {sfWebDebugLogger} Factories 61.00 ms (1)
+May 25 19:10:40 symfony [info] {sfWebDebugLogger} Action "default/index" 1.00 ms (1)
+May 25 19:10:40 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 355.02 ms (1)
+May 25 19:10:40 symfony [info] {sfWebResponse} Send content (46548 o)
+May 25 19:10:41 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:10:41 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:10:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:10:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:10:41 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:10:41 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:10:41 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:10:41 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:10:41 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:10:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:10:41 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:10:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+May 25 19:10:41 symfony [info] {sfWebDebugLogger} Configuration 12.00 ms (9)
+May 25 19:10:41 symfony [info] {sfWebDebugLogger} Factories 61.00 ms (1)
+May 25 19:10:41 symfony [info] {sfWebDebugLogger} Action "default/index" 0.00 ms (1)
+May 25 19:10:41 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 359.02 ms (1)
+May 25 19:10:41 symfony [info] {sfWebResponse} Send content (46603 o)
+May 25 19:11:13 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:11:13 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:11:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:11:13 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:11:13 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:11:13 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:13 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:13 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:11:13 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+May 25 19:11:13 symfony [info] {sfWebDebugLogger} Configuration 12.00 ms (9)
+May 25 19:11:13 symfony [info] {sfWebDebugLogger} Factories 64.00 ms (1)
+May 25 19:11:13 symfony [info] {sfWebDebugLogger} Action "default/index" 0.00 ms (1)
+May 25 19:11:13 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 379.02 ms (1)
+May 25 19:11:13 symfony [info] {sfWebResponse} Send content (46580 o)
+May 25 19:11:14 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:11:14 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:11:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:11:14 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:11:14 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:11:14 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:14 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:14 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:11:14 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+May 25 19:11:14 symfony [info] {sfWebDebugLogger} Configuration 11.00 ms (9)
+May 25 19:11:14 symfony [info] {sfWebDebugLogger} Factories 60.00 ms (1)
+May 25 19:11:14 symfony [info] {sfWebDebugLogger} Action "default/index" 1.00 ms (1)
+May 25 19:11:14 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 374.02 ms (1)
+May 25 19:11:14 symfony [info] {sfWebResponse} Send content (46548 o)
+May 25 19:11:15 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:11:15 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:11:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:11:15 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:11:15 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:11:15 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:15 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:15 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:15 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:11:15 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:15 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+May 25 19:11:15 symfony [info] {sfWebDebugLogger} Configuration 17.00 ms (9)
+May 25 19:11:15 symfony [info] {sfWebDebugLogger} Factories 67.00 ms (1)
+May 25 19:11:15 symfony [info] {sfWebDebugLogger} Action "default/index" 1.00 ms (1)
+May 25 19:11:15 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 370.02 ms (1)
+May 25 19:11:15 symfony [info] {sfWebResponse} Send content (46602 o)
+May 25 19:11:29 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:11:29 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:11:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:11:29 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:11:29 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:11:29 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:29 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:29 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:11:29 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+May 25 19:11:29 symfony [info] {sfWebDebugLogger} Configuration 15.00 ms (9)
+May 25 19:11:29 symfony [info] {sfWebDebugLogger} Factories 62.00 ms (1)
+May 25 19:11:29 symfony [info] {sfWebDebugLogger} Action "default/index" 1.00 ms (1)
+May 25 19:11:29 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 382.02 ms (1)
+May 25 19:11:30 symfony [info] {sfWebResponse} Send content (46580 o)
+May 25 19:11:30 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:11:30 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:30 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:11:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:11:30 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:11:30 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:11:30 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:30 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:30 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:30 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:11:30 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:30 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+May 25 19:11:30 symfony [info] {sfWebDebugLogger} Configuration 13.00 ms (9)
+May 25 19:11:30 symfony [info] {sfWebDebugLogger} Factories 60.00 ms (1)
+May 25 19:11:30 symfony [info] {sfWebDebugLogger} Action "default/index" 1.00 ms (1)
+May 25 19:11:30 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 379.02 ms (1)
+May 25 19:11:30 symfony [info] {sfWebResponse} Send content (46548 o)
+May 25 19:11:31 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:11:31 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:11:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:11:31 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:11:31 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:11:31 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:31 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:31 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:11:31 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+May 25 19:11:31 symfony [info] {sfWebDebugLogger} Configuration 14.00 ms (9)
+May 25 19:11:31 symfony [info] {sfWebDebugLogger} Factories 64.00 ms (1)
+May 25 19:11:31 symfony [info] {sfWebDebugLogger} Action "default/index" 1.00 ms (1)
+May 25 19:11:31 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 364.02 ms (1)
+May 25 19:11:31 symfony [info] {sfWebResponse} Send content (46603 o)
+May 25 19:11:56 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:11:56 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:11:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:11:56 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:11:57 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:11:57 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:57 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:57 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:11:57 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+May 25 19:11:57 symfony [info] {sfWebDebugLogger} Configuration 14.00 ms (9)
+May 25 19:11:57 symfony [info] {sfWebDebugLogger} Factories 67.00 ms (1)
+May 25 19:11:57 symfony [info] {sfWebDebugLogger} Action "default/index" 1.00 ms (1)
+May 25 19:11:57 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 382.02 ms (1)
+May 25 19:11:57 symfony [info] {sfWebResponse} Send content (46580 o)
+May 25 19:11:57 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:11:57 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:11:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:11:57 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:11:58 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:11:58 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:58 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:58 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:58 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:11:58 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:11:58 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:58 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:11:58 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:11:58 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:11:59 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:11:59 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:59 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:11:59 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:11:59 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+May 25 19:11:59 symfony [info] {sfWebDebugLogger} Configuration 16.00 ms (9)
+May 25 19:11:59 symfony [info] {sfWebDebugLogger} Factories 66.00 ms (1)
+May 25 19:11:59 symfony [info] {sfWebDebugLogger} Action "default/index" 0.00 ms (1)
+May 25 19:11:59 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 385.02 ms (1)
+May 25 19:11:59 symfony [info] {sfWebResponse} Send content (46548 o)
+May 25 19:11:59 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:11:59 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:11:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:11:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:11:59 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:12:00 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:12:00 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:12:00 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:12:00 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:12:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:12:00 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:12:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+May 25 19:12:00 symfony [info] {sfWebDebugLogger} Configuration 16.00 ms (9)
+May 25 19:12:00 symfony [info] {sfWebDebugLogger} Factories 63.00 ms (1)
+May 25 19:12:00 symfony [info] {sfWebDebugLogger} Action "default/index" 1.00 ms (1)
+May 25 19:12:00 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 395.02 ms (1)
+May 25 19:12:00 symfony [info] {sfWebResponse} Send content (46548 o)
+May 25 19:12:00 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:12:00 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:12:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:12:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:12:00 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:12:01 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:12:01 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:12:01 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:12:01 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:12:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:12:01 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:12:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+May 25 19:12:01 symfony [info] {sfWebDebugLogger} Configuration 13.00 ms (9)
+May 25 19:12:01 symfony [info] {sfWebDebugLogger} Factories 67.00 ms (1)
+May 25 19:12:01 symfony [info] {sfWebDebugLogger} Action "default/index" 1.00 ms (1)
+May 25 19:12:01 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 391.02 ms (1)
+May 25 19:12:01 symfony [info] {sfWebResponse} Send content (46602 o)
+May 25 19:12:11 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:12:11 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:12:11 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:12:11 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:12:11 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:12:11 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:12:11 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:12:11 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:12:11 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:12:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:12:12 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:12:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+May 25 19:12:12 symfony [info] {sfWebDebugLogger} Configuration 19.00 ms (9)
+May 25 19:12:12 symfony [info] {sfWebDebugLogger} Factories 64.00 ms (1)
+May 25 19:12:12 symfony [info] {sfWebDebugLogger} Action "default/index" 0.00 ms (1)
+May 25 19:12:12 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 387.02 ms (1)
+May 25 19:12:12 symfony [info] {sfWebResponse} Send content (46558 o)
+May 25 19:12:12 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:12:12 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:12:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:12:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:12:12 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:12:12 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:12:12 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:12:12 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:12:12 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:12:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:12:12 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:12:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+May 25 19:12:13 symfony [info] {sfWebDebugLogger} Configuration 17.00 ms (9)
+May 25 19:12:13 symfony [info] {sfWebDebugLogger} Factories 65.00 ms (1)
+May 25 19:12:13 symfony [info] {sfWebDebugLogger} Action "default/index" 0.00 ms (1)
+May 25 19:12:13 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 395.02 ms (1)
+May 25 19:12:13 symfony [info] {sfWebResponse} Send content (46526 o)
+May 25 19:12:13 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+May 25 19:12:13 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\storage\sfSessionStorage.class.php on line 93 (session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:12:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+May 25 19:12:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+May 25 19:12:13 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+May 25 19:12:13 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+May 25 19:12:13 symfony [info] {sfPHPView} Decorate content with "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:12:13 symfony [info] {sfPHPView} Render "C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+May 25 19:12:13 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:12:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+May 25 19:12:14 symfony [warning] {sfWebDebugLogger}  Warning at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\wamp\www\sfprojects\jobeet\lib\vendor\symfony\lib\config\sfApplicationConfiguration.class.php:155))
+May 25 19:12:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+May 25 19:12:14 symfony [info] {sfWebDebugLogger} Configuration 14.00 ms (9)
+May 25 19:12:14 symfony [info] {sfWebDebugLogger} Factories 66.00 ms (1)
+May 25 19:12:14 symfony [info] {sfWebDebugLogger} Action "default/index" 0.00 ms (1)
+May 25 19:12:14 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 385.02 ms (1)
+May 25 19:12:14 symfony [info] {sfWebResponse} Send content (46581 o)
